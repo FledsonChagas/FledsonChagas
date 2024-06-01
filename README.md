@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FledsonChagas
+- 👋 Hi, I’m @FledsonChagas, also known as M4G0
 - 👀 I’m interested in CyberSecurity, DevSecOps and "Gambiarras"
-- 🌱 I’m currently learning Javascripts, Azure and AWS.
+- 🐍 The programming language I'm currently enjoying the most is Python.
 - 💞️ I’m looking to collaborate on all can i do.
 
 
